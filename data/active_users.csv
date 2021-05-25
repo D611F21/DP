@@ -1,0 +1,101 @@
+userid,firstname,lastname,email,city,lat,lon,type
+164425a0-1339-401f-af10-20878c5d677f,Dennie,Merriott,Dennie.Merriott@mail.com,Tampa,132.92632096401940,03.50615915819177,solar
+f6049e98-9dbb-4bb6-a2b7-90c72d2348aa,Merrie,Firmin,Merrie.Firmin@mail.com,Virginia Beach,41.48055739952224,41.04893883172568,medium
+40c15082-6f50-4f28-a4b2-24d7256d6d28,Constance,Ammann,Constance.Ammann@mail.com,Timbuktu,01.98306145375874,-03.95339749868423,low
+4b392b6c-e52f-49d8-ab70-a5e20b4de33c,Janis,Berard,Janis.Berard@mail.com,Seoul,-38.97556739568973,-122.82792244763804,low
+7a287f88-ed7d-4a92-8a84-7cebfe462ced,Gratia,Nikaniki,Gratia.Nikaniki@mail.com,Bahía Blanca,-37.09819839477929,05.96491638681685,medium
+8f26ef89-8d88-4137-bd12-240c8b3b70f3,Maryellen,Sandye,Maryellen.Sandye@mail.com,Maracaibo,-104.83462563277521,-11.52574710367480,low
+6b1ccba1-6e4c-409b-9dbe-5e3c9657af65,Ezmeralda,Reinke,Ezmeralda.Reinke@mail.com,The Valley,144.61174189967605,-179.17832182080677,low
+be09b014-49f8-4d21-8703-46affc9b2159,Gratia,Riva,Gratia.Riva@mail.com,Santiago de Cuba,-175.27697670759832,-130.39100558917467,medium
+26da22a8-1f81-43dc-a2e2-57e6ffd9c0c2,Zaria,Schalles,Zaria.Schalles@mail.com,Almaty,48.77871801193658,-177.87811290937715,medium
+578c1de9-6135-4511-b624-3fcef72d32b5,Barbara,Sasnett,Barbara.Sasnett@mail.com,Zamboanga City,-145.81334330759934,155.90994669910486,medium
+714c533a-230e-448f-a88e-250459a76dc5,Joceline,Darbie,Joceline.Darbie@mail.com,Fredericton,61.17847792462384,-09.60511709640751,medium
+dcd1e06a-0fd4-48c5-b778-eb31b7bd055e,Kimmy,Fiester,Kimmy.Fiester@mail.com,Abu Dhabi,113.42443025453605,-04.54112325550273,low
+1c7d20bc-eea1-4022-ac8c-23855119d88f,Mariele,Sophronia,Mariele.Sophronia@mail.com,Abu Dhabi,-121.74324991645725,-72.12600310592381,low
+d2849633-91a5-486f-aa94-05282eb9288a,Anthia,Constancy,Anthia.Constancy@mail.com,Shenyang,72.05274759608962,-67.15393872714231,low
+0f9ec80c-fda2-48bf-a506-718b206f5edd,Vere,Argus,Vere.Argus@mail.com,Tianjin,96.02634458279901,-119.24212997801959,high
+78ba449d-d67e-4eeb-9e3a-730ad7f0bdd2,Rosabelle,Bettine,Rosabelle.Bettine@mail.com,Macapá,161.70385812978036,-50.08092164215623,medium
+a62d755d-65d0-4724-a662-b6331366deb2,Leona,Zenas,Leona.Zenas@mail.com,Dunedin,83.37631500293044,144.20577482442511,medium
+bef2956f-bff4-4ce3-af0f-93dcc64dea7a,Stevana,Koehler,Stevana.Koehler@mail.com,Dushanbe,99.90514470395972,-173.01972614464718,low
+85cd09c7-99ee-4a94-9007-a34758ef33af,Carly,Wu,Carly.Wu@mail.com,Salt Lake City,-176.51128312972220,-175.84972002164235,medium
+04a63a93-087d-48d4-a0f5-3c3689bd29cb,Aimil,Jena,Aimil.Jena@mail.com,Geelong,-174.08084458435071,03.97259568751051,low
+3d83b9e7-0814-46db-a350-da6bde6568a4,Roxane,Egbert,Roxane.Egbert@mail.com,Wellington,-156.34119906325820,143.99305555532038,medium
+5e77da0c-ed9a-4bd5-bae7-d2977668dd26,Harrietta,Wolfgram,Harrietta.Wolfgram@mail.com,Madrid,12.19760412029962,30.93260200969037,low
+eb97ec50-8aeb-4833-8411-4f1311765a3d,Roslyn,Simmonds,Roslyn.Simmonds@mail.com,Fortaleza,05.40323948099159,-00.73908566048971,medium
+3a715610-3555-4b67-9bc6-c191f94c20e5,Addia,Constancy,Addia.Constancy@mail.com,Córdoba,-23.93233669425640,102.09634207812068,medium
+54e898ca-263a-4f45-a6c3-0bdc5df13d76,Catrina,Lasley,Catrina.Lasley@mail.com,San Diego,121.47098752717982,102.42871747337169,high
+cc67ae09-c481-4cda-a508-36c3323891d4,Clary,Oneida,Clary.Oneida@mail.com,Alofi,-113.17704250882518,177.65662015264393,low
+eb4ecb08-845f-416d-9e48-a75f72458b7e,Fina,Bultman,Fina.Bultman@mail.com,Tegucigalpa,-117.49571242453132,-179.71864846821937,high
+06ad721c-b04f-40ed-8d18-a693167fd4b5,Rosabelle,Eugenia,Rosabelle.Eugenia@mail.com,Las Palmas de Gran Canaria,157.86379374644928,-88.46756394749582,low
+34622958-27b0-4a08-989d-15acebcd9222,Therine,Darbie,Therine.Darbie@mail.com,Anadyr (town),-32.69938072329263,-135.31374754121925,medium
+8bdefe30-b17b-4c8f-b49c-08f3f9019d63,Mireielle,Saree,Mireielle.Saree@mail.com,Muscat,107.49666726999295,11.46575711477350,low
+733c3be4-b1b5-4a21-ab0b-af15b3558f21,Rhea,Hillel,Rhea.Hillel@mail.com,Dodoma,148.24209006337048,62.42909644681724,medium
+4b216a9d-1975-4604-a146-1198f416ee4b,Frances,Hermes,Frances.Hermes@mail.com,Monrovia,23.69580366684931,41.39504270337848,low
+dd5ea78d-d613-4ea6-a483-f27fe873b95b,Codie,Warthman,Codie.Warthman@mail.com,City of Halifax,96.87346129849059,-06.72391843150433,medium
+732d99c5-f64c-46fb-989b-985321ae522d,Priscilla,Flita,Priscilla.Flita@mail.com,Porto-Novo,-126.44704219849292,40.64068778209156,medium
+98f2c005-2b93-449b-8c63-9b4c15be586d,Brynna,Ader,Brynna.Ader@mail.com,Bangalore,151.66946524446476,-85.89925680932627,high
+36e10e36-f57f-4c92-b33a-d7076b36da9f,Rozele,Whittaker,Rozele.Whittaker@mail.com,Davao City,-51.02946781233417,168.64030524267021,low
+3781f5cc-2168-4f1a-b42a-e276463ddc50,Peri,Gordon,Peri.Gordon@mail.com,Santo Domingo,-120.97042909741859,157.32626189080201,low
+076abe7a-d867-44e0-9eb9-5e86b5abc789,Orsola,Gordon,Orsola.Gordon@mail.com,Alor Star,111.49757296167359,-39.59069506051121,medium
+15d40ceb-9a1f-4615-a7ad-b1c4c23d8aa2,Evita,Markman,Evita.Markman@mail.com,Minsk,102.11493357230223,-21.00530291708113,medium
+8acd20c7-d333-414a-b6ed-dcafd2fd9cde,Cherilyn,Florina,Cherilyn.Florina@mail.com,Belize City,-71.54439918377699,75.31270379165245,medium
+8a7b11c3-3afd-4cac-8816-6af949ee8528,Mallory,Lattie,Mallory.Lattie@mail.com,Ottawa,-142.58134127356250,-141.22822735279213,medium
+efb03a57-c55d-4144-ad27-62ecc28da909,Esmeralda,Bahr,Esmeralda.Bahr@mail.com,Bratislava,-154.32269565422780,-56.05046330922365,medium
+bf86dcd9-1bb0-4e45-87e4-fb2de7633e9f,Wanda,Eno,Wanda.Eno@mail.com,Ahmedabad,-13.68671845106485,07.24077740494842,medium
+d287886f-9235-4d00-adbb-6f5b57570e10,Sophia,Idelia,Sophia.Idelia@mail.com,Moscow,-138.99923082571545,-35.09623774283025,medium
+cd83b269-cb65-4b67-bfd8-b4f3b0fbcb65,Ezmeralda,Knowling,Ezmeralda.Knowling@mail.com,Bridgetown,172.57756385373863,83.71645769772378,medium
+1386ce13-c5f8-439b-a02c-b9772098fbd8,Aimil,Lane,Aimil.Lane@mail.com,Curitiba,-61.39258834400076,127.79871522070420,medium
+53dceded-8059-4ce3-a8b1-39c768135d06,Annora,Merriott,Annora.Merriott@mail.com,Indianapolis,74.48615250354774,50.12976710250643,low
+36729f63-95a9-47f4-b5fc-41ccd27388e8,Nickie,Pitt,Nickie.Pitt@mail.com,Valdivia,-30.51091461658996,13.74266758363965,medium
+774bfb0e-9e00-4a23-96b3-39b40cde6643,Morganica,Mauer,Morganica.Mauer@mail.com,Kandy,165.40253454779401,-25.82850017273982,medium
+87429fa6-8aa9-4e56-a15b-57fffdfb80f4,Amelia,Loeb,Amelia.Loeb@mail.com,Liverpool,-179.13631429451861,-104.82287124085772,medium
+33326389-5e86-4f2f-8a57-ac0d987a1e43,Karly,Bohlin,Karly.Bohlin@mail.com,Kota Kinabalu,92.48612485124173,-94.84826376273295,low
+5f6a5626-baa4-40ee-92a9-f7828e945c8b,Kore,Geffner,Kore.Geffner@mail.com,Cannes,69.16856269134821,-136.79915468584192,high
+7fc18086-14f7-4c42-b21e-ef7d67cea553,Luci,Bluh,Luci.Bluh@mail.com,Maputo,99.49365939052994,-148.42567281508861,medium
+74305130-05ab-4dca-a97c-71f3eb17ea38,Cyb,Lynn,Cyb.Lynn@mail.com,Gaziantep,73.44467414268992,113.14144475583834,low
+e612fc6e-b799-43f4-a1cc-17bafc09d4ef,Joane,Ventre,Joane.Ventre@mail.com,Vilnius,131.08904683700321,60.41665565983823,medium
+393338c2-7327-4e96-87ce-2a08916914ef,Layla,Bonilla,Layla.Bonilla@mail.com,Valparaíso,84.35973617731915,94.28647339233648,medium
+bfa59f2e-500c-44e4-b322-20b126dfcceb,Henriette,Madelene,Henriette.Madelene@mail.com,Porto,-177.97552799657216,-130.86912991044952,low
+c3531d65-0a15-42f5-9e3b-756a9eb940e3,Ana,Bates,Ana.Bates@mail.com,Davao City,-93.57733935806637,175.90415309634912,low
+e2ad1f6e-39a4-4d50-8916-fa55615db757,Sabina,Rodmann,Sabina.Rodmann@mail.com,New Orleans,-56.86763271633986,-14.98268555394697,low
+2dee518f-c573-4edf-905e-947dcb831243,Silvana,Hutchison,Silvana.Hutchison@mail.com,Port Elizabeth,106.63168939090168,86.63479858416733,medium
+42714f71-41c1-45a2-9ef1-ebd721a123f4,Jacenta,Scammon,Jacenta.Scammon@mail.com,Calama,01.40217999738793,-122.57094710588642,medium
+a4f08f2e-647f-4eb0-bc7e-1c4644029fe7,Kayla,Tillford,Kayla.Tillford@mail.com,Surat,-107.21948468669980,116.07245851191268,medium
+aed1a815-a2bf-4780-93e2-f21426fdd2c5,Hope,Yusuk,Hope.Yusuk@mail.com,Port Louis,-149.77576246277233,90.93875295317025,medium
+57dbddf9-4f10-4a6c-940a-66e89985f508,Johna,Claudine,Johna.Claudine@mail.com,Arbil,38.43806666622858,163.63920303621648,medium
+4ba5034c-be51-4519-86fc-5aa550e87134,Danny,Fabiola,Danny.Fabiola@mail.com,Nassau,13.98702421250454,171.12489533609488,medium
+dada4fe8-9c53-4c6d-a93b-0761a3bfda2e,Lory,Gillan,Lory.Gillan@mail.com,Stuttgart,134.74394324653377,27.20690518906684,medium
+1efa9e18-fc6b-402c-be1a-ff8ac3e3e58d,Alie,Wooster,Alie.Wooster@mail.com,Cuiabá,-71.12369594713305,-27.47592564566359,low
+cc9d5595-fb1a-41fe-a1e1-e7f1fddaa0f2,Livvyy,Schenck,Livvyy.Schenck@mail.com,Kobe,101.43269382175075,-129.77876678502177,low
+b6102108-54a4-46d3-9cb8-c1e7b44f51bc,Livvyy,Cottle,Livvyy.Cottle@mail.com,Rawalpindi,-78.31899662971431,-32.04961023001240,medium
+6b31f6b0-42b3-4b68-bf3a-175a55c989cd,Sashenka,Oster,Sashenka.Oster@mail.com,Bilbao,76.60550131274840,150.05006506291933,medium
+06aecdba-e691-4447-a5fe-2250044fc92d,Petronia,Fleeta,Petronia.Fleeta@mail.com,Wichita,-24.18369890758882,03.45996146877048,low
+0476e62e-cf1a-4926-882d-34f15447e1f4,Addia,Gunn,Addia.Gunn@mail.com,Murmansk,00.76193220132414,62.25486403014737,low
+fd2ed14a-6644-40fb-9efa-9c8166eef4d1,Margarette,Baylor,Margarette.Baylor@mail.com,Tamale,34.67340799121901,-162.11377303686341,medium
+0b896608-8421-451c-80a7-e47f93f43d5c,Verla,Cookie,Verla.Cookie@mail.com,Sitka,115.88503567188007,75.58152901552460,medium
+d513fa28-48ce-4e31-8bc7-5785cbcb51d3,Wileen,Chem,Wileen.Chem@mail.com,Daegu,58.09631534221983,135.02137767252871,high
+011531f6-d011-4be4-862a-de839e7de370,Drucie,Mott,Drucie.Mott@mail.com,Charlotte Amalie,-149.96513156007627,-16.69724740169577,medium
+2f94d588-5b8b-4fbc-9d80-e8ef4f7ae299,Steffane,Dyche,Steffane.Dyche@mail.com,Yamoussoukro,-93.60603293030630,177.07320908634805,low
+3f7afe63-8d8a-4345-a942-4d273dfc6c71,Basia,Colyer,Basia.Colyer@mail.com,Shanghai,-94.20187556466387,-119.33919603457576,low
+254d0b8e-367c-442e-8d65-71891a82481f,Althea,Wadell,Althea.Wadell@mail.com,Amsterdam,121.74900954560266,83.81009467354383,medium
+bd79f7b7-0b74-4c0b-8587-0f1bf294b4e4,Minda,Bashemeth,Minda.Bashemeth@mail.com,Greenwich,83.39822491699612,18.76624412700313,low
+e90ca299-341e-49c3-8a52-3e1eace155d9,Gisela,Sigfrid,Gisela.Sigfrid@mail.com,Mata-Utu,133.34951081976993,101.71372848871779,medium
+65538b02-c190-4fb3-a945-3d4f28276c2e,Ivett,Sekofski,Ivett.Sekofski@mail.com,Prague,05.83546089212809,146.86925071380698,low
+f4754504-8644-4f06-8579-b5196ffc93a0,Jolyn,LaRue,Jolyn.LaRue@mail.com,Hanoi,-171.72073260255374,115.76777939496053,high
+663bfa4e-d1af-406e-8b3b-c5efedab56e5,Ketti,Ramona,Ketti.Ramona@mail.com,Vienna,170.87072187920234,28.71648681577906,low
+13fd29ef-01a6-42a8-b511-9438ff24ba78,Taffy,Ciapas,Taffy.Ciapas@mail.com,Manaus,105.43234907026777,-106.21613918258474,low
+a126665c-222c-4502-81c7-5d11c96e3c17,Tiffie,Cimbura,Tiffie.Cimbura@mail.com,Dibrugarh,67.81657270404166,-127.11965238027669,medium
+09108ba5-6e41-41c6-a426-fc06cbd6f8e4,Ekaterina,Elvyn,Ekaterina.Elvyn@mail.com,Vientiane,-53.91862124447514,-104.03446400450604,medium
+d8f9765b-b302-44b3-b446-e7bc1c889a44,Hope,Krystle,Hope.Krystle@mail.com,Luxembourg (city),-22.23917201363593,149.02970393748331,medium
+3821f991-4c2e-445f-bef9-4aed1b725f6d,Luci,Bultman,Luci.Bultman@mail.com,Thiès,173.29311003603391,-65.58151260154769,medium
+d1c7d069-8259-4e37-bf3d-a06a432a0764,Ebonee,Amadas,Ebonee.Amadas@mail.com,Paramaribo,-39.77443989313946,-95.24716781405180,low
+179f1285-4727-408f-bec5-e7974fdcf78f,Janenna,Land,Janenna.Land@mail.com,Brasília,-81.07932947847963,-45.36239333891747,medium
+4c66ae39-3c9e-47ed-9eed-64f62ec1fddc,Latisha,Henrie,Latisha.Henrie@mail.com,Port of Spain,-169.54422608658915,103.02491171202777,high
+84826275-cca2-40c4-9843-609bddfafe5a,Sallie,Brunell,Sallie.Brunell@mail.com,Chihuahua,-121.76094999879889,112.18139829068427,low
+18378e8f-34b5-4374-bcef-7918abc370b5,Kate,Beniamino,Kate.Beniamino@mail.com,Lomé,74.24072957416646,-123.47784110270134,medium
+af4babe8-348b-4cde-b1ac-f390b6ab4ba6,Anestassia,Cherianne,Anestassia.Cherianne@mail.com,Banjul,-151.99149104016386,77.03260903671012,low
+508b7f9e-306d-4364-a1b7-f71ae06969a3,Mariele,Trace,Mariele.Trace@mail.com,Manchester,12.48030567607187,93.59424239477507,low
+bc0be498-6d71-496a-a6a9-6dd61f93e76c,Phedra,Tamar,Phedra.Tamar@mail.com,Accra,-167.06328881086611,-156.64386311444379,medium
+4be5983b-dbe1-4ab1-8ae0-4dd6bb284898,Yolane,Amadas,Yolane.Amadas@mail.com,Porto,-95.80370514394604,127.71705409179326,medium
+6d65161b-9a48-424a-b1a5-3fb34bb2f89f,Hettie,Guildroy,Hettie.Guildroy@mail.com,Lagos,-155.78596468213213,159.50341563533170,low
+6baf4b15-4a04-4cab-8690-7aa26f840f1b,Bee,Aprile,Bee.Aprile@mail.com,New York City,06.15790280939767,-105.34482770842644,low

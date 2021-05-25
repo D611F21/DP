@@ -1,0 +1,5 @@
+userid,firstname,lastname,email,city,lat,lon,type
+164425a0-1339-401f-af10-20878c5d677f,Dennie,Merriott,Dennie.Merriott@mail.com,Tampa,132.92632096401940,3.50615915819177,solar
+f6049e98-9dbb-4bb6-a2b7-90c72d2348aa,Merrie,Firmin,Merrie.Firmin@mail.com,Virginia Beach,41.48055739952224,41.04893883172568,medium
+40c15082-6f50-4f28-a4b2-24d7256d6d28,Constance,Ammann,Constance.Ammann@mail.com,Timbuktu,1.98306145375874,-3.95339749868423,low
+0f9ec80c-fda2-48bf-a506-718b206f5edd,Vere,Argus,Vere.Argus@mail.com,Tianjin,96.02634458279901,-119.24212997801959,high
