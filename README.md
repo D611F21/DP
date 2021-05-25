@@ -12,8 +12,8 @@ optional arguments:
   --out_dir OUT_DIR         Output destination
   --save_orig SAVE_ORIG     Filename for saving the original data
   --save_anon SAVE_ANON     Filename for saving the anonymized data
-  --noprogress              Print verbose information
+  --noprogress              Remove progress bar while computing
   --verbose                 Print verbose information
   --user_limit USER_LIMIT   Limit the number of users
-  --entry_limit ENTRY_LIMIT Limit the number of entries pe
+  --entry_limit ENTRY_LIMIT Limit the number of entries per user
 ```
