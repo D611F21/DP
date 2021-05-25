@@ -1,4 +1,4 @@
-# README
+# Differentially Private Time Series Data
 ```
 usage: main.py [-h] [--from_date FROM_DATE] [--to_date TO_DATE] [--data_path DATA_PATH] [--out_dir OUT_DIR]
                [--save_orig SAVE_ORIG] [--save_anon SAVE_ANON] [--noprogress] [--verbose] [--user_limit USER_LIMIT]
